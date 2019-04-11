@@ -5,7 +5,7 @@ public class Library {
     
     public static void main(String arg[]) {
 		System.out.println("Run");
-		// New comment
+		System.out.println("Run");
 	}
     
     public boolean someLibraryMethod() {
